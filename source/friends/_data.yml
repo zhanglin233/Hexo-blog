@@ -1,0 +1,27 @@
+- site: 優萌初華（博客模板原作者）
+  owner: 霜月琉璃
+  url: https://shoka.lostyu.me
+  desc: 琉璃的医学 & 编程笔记
+  image: https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg
+  color: "#e9546b"
+
+- site: 加加林的加特林
+  owner: 加加林的加特林
+  url: https://miketaylorjuly123.cn/
+  desc: 
+  image: https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg
+  color: "#e9546b"
+
+- site: Liquid
+  owner: 倪姓猛男
+  url: http://liquidblog.fun/
+  desc: 编程笔记
+  image: http://liquidblog.fun/img/1.0d177ff7.jpg
+  color: "#e9546b"
+
+- site: mzcy
+  owner: 木子川页
+  url: https://nc3021.github.io
+  desc: 二次元 & lsp
+  image: https://nc3021.github.io/images/avatar.jpg
+  color: "#e9546b"
