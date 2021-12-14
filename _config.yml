@@ -86,6 +86,8 @@ category_map:
   Nginx: nginx
   Redis: Redis
   博客: blog
+  智能控制: course_1
+  算法: algorithm
 tag_map:
 
 # Metadata elements

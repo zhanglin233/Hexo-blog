@@ -1,6 +1,8 @@
 ---
 title: springboot基础篇之整合第三方技术
 tags: java springboot
+categories:
+- [计算机科学, Java, SpringBoot]
 ---
 
 # Spring基础之整合第三方技术
