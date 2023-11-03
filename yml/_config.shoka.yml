@@ -249,7 +249,7 @@ quicklink:
 # ---------------------------------------------------------------
 # analytics & SEO Settings
 # ---------------------------------------------------------------
-baidu_analytics: # <app_id>
+baidu_analytics: 04b474bb6c6910e6b4240a1f2c3028a7
 
 # Disable Baidu transformation on mobile devices.
 disable_baidu_transformation: true
@@ -274,7 +274,7 @@ yandex_site_verification:
 baidu_site_verification:
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
-baidu_push: false
+baidu_push: true
 
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING `vendors` SETTINGS
