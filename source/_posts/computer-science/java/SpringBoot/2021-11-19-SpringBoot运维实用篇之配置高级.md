@@ -15,7 +15,7 @@ categories:
   java -jar 工程名.jar --server.port=80
   ```
 
-  ![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211119220801.png)
+  ![](http://s3k1abi6b.hd-bkt.clouddn.com/20211119220801.png)
 
 * 通过编程形式带参数启动SpringBoot程序，为程序添加运行参数
 
@@ -46,7 +46,7 @@ categories:
 
   []([Core Features (spring.io)](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.external-config))
 
-  ![/](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211119214529.png)
+  ![/](http://s3k1abi6b.hd-bkt.clouddn.com/20211119214529.png)
 
 ## 配置文件分类
 

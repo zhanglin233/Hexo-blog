@@ -34,7 +34,7 @@ class SpringBootJunitApplicationTest{}
 
 2. 选择当前模块需要使用的技术集（MyBatis、MySQL）(勾选MyBatis技术，也就是导入MyBatis对应的starter)
 
-   ![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211119171012.png)
+   ![](http://s3k1abi6b.hd-bkt.clouddn.com/20211119171012.png)
 
 3. 设置数据源参数
 

@@ -23,13 +23,13 @@ categories:
 git --version
 ```
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211127143705.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211127143705.png)
 
 ### node
 
 开发过程中需要安装较多依赖的插件，使用npm包管理工具来管理这些插件。具体安装步骤网上查询即可。
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211127145223.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211127145223.png)
 
 ### hexo
 
@@ -43,7 +43,7 @@ npm install hexo -g
 
 查看hexo版本信息
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211127145634.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211127145634.png)
 
 能得到以上信息就说明安装成功。
 
@@ -55,7 +55,7 @@ npm install hexo -g
 
 选择一个文件夹用来部署你的博客。我的文件夹所在地：
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211127150222.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211127150222.png)
 
 接下来在终端中进入你博客的文件路径，分别输入
 
@@ -442,7 +442,7 @@ hexo g -d  # 相当于 hexo generate 及 hexo dep
 
 如果没有发生错误你就可以在你的gihub仓库上看到提交的内容了
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211127154035.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211127154035.png)
 
 在浏览器中查看效果
 
@@ -490,7 +490,7 @@ The tag `linksfile` on line 23 in `source/friends/index.md` is not a recognized 
 
 在博客项目根目录下添加空的.nojekyll文件
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211126221143.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211126221143.png)
 
 并在_config.yml文件中加入以下配置即可：
 
@@ -517,7 +517,7 @@ deploy:
 
 中的repo换成ssh地址，不要使用https地址
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211127155137.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211127155137.png)
 
 ```yaml
 # Deployment

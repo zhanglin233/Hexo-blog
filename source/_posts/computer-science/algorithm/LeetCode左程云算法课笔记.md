@@ -21,7 +21,7 @@ categories:
 
 * 根据异或相同为0，不同为1不能很好理解交换律和结合律，但是^理解为不进位相加就很好理解了，某一位上的结果只和1的个数有关，和顺序无关
 
-  ![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211212133439.png)
+  ![](http://s3k1abi6b.hd-bkt.clouddn.com/20211212133439.png)
 ### 使用异或运算符交换两个数
 
 ```java
@@ -304,7 +304,7 @@ public class SMallNum {
 
 ```
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211212211300.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211212211300.png)
 
 #### 数组中的逆序对
 
@@ -386,7 +386,7 @@ public class InversionPair {
 
 ```
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211213110617.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211213110617.png)
 
 ### 快速排序
 
@@ -626,7 +626,7 @@ public class QuickSOrt {
 - **Min-heap**: 父节点的值小于或等于子节点的值；
   **Max-heap**: 父节点的值大于或等于子节点的值；
 
-   ![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211213195011.png)
+   ![](http://s3k1abi6b.hd-bkt.clouddn.com/20211213195011.png)
 
 * **堆的存储：**
 
@@ -964,13 +964,13 @@ for (int j = L; j <= R; j++) {
 }
 ```
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211214153736.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211214153736.png)
 
 #### 需要注意的地方
 
 **将数据存入bucket中时一定要记得从右往左读取arr中的数据,否则就会出现下面的情况，低位数据从大到小排列**
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211214152821.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211214152821.png)
 
 因此上图中不应先读arr[0],应先读啊arr[4]
 

@@ -41,7 +41,7 @@ SpringBoot项目可以基于java环境下独立运行jar文件下独立运行jar
 
 ### 可执行jar包目录结构
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211119212734.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211119212734.png)
 
 ### jar包描述文件(MANIFEST.MF)
 

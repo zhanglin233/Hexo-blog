@@ -27,7 +27,7 @@ categories:
 
 * Spring程序与SpringBoot程序对比
 
-  ![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211117200144.png)
+  ![](http://s3k1abi6b.hd-bkt.clouddn.com/20211117200144.png)
 
   
 
@@ -37,19 +37,19 @@ categories:
 
 1. 创建新模块，选择Spring Initializr，并配置模块相关基础信息
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211117200639.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211117200639.png)
 
 2. 选择当前模块需要使用的技术集
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211117200722.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211117200722.png)
 
 3. 开发控制器类
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211119174712.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211119174712.png)
 
 4. 运行自动生成的Application类
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211119174735.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211119174735.png)
 
 从图中可以看到项目所运行的服务器为Tomcat及服务器运行的端口号为8080.
 
@@ -67,13 +67,13 @@ categories:
 
 基于SpringBoot官网创建项目，地址 :<https://start.spring.io>
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211117201433.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211117201433.png)
 
 所填属性与通过Idea创建工程相同
 
 ### 基于阿里云创建SpringBoot工程 
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211117201551.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211117201551.png)
 
 基于阿里云创建springboot项目只需在第三步中取消勾选默认的start来源，改为勾选Custom用户自定义，并填入阿里云网址<http://start.aliyun.com>即可，其它操作与基于Idea创建SpringBoot工程相同。
 
@@ -179,7 +179,7 @@ public class Spring0101QuickStartApplication {
 
 * 继承parent的形式也可以采用引入依赖的形式实现效果
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211117203328.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211117203328.png)
 
 ### starter
 
@@ -192,7 +192,7 @@ public class Spring0101QuickStartApplication {
 
 starter中包含了许多依赖
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211117203725.png)
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211117203725.png)
 
 将鼠标放在starter上按住Ctrl+鼠标左击即可查看详细信息。
 
@@ -229,7 +229,7 @@ public class Spring0101QuickStartApplication {
 }
 ```
 
-![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211117210124.png) 
+![](http://s3k1abi6b.hd-bkt.clouddn.com/20211117210124.png) 
 
 ### Tomcat
 
@@ -239,7 +239,7 @@ public class Spring0101QuickStartApplication {
 
    查看spring-boot-starter-web依赖详细信息可以看到其中包括了Tomcat
 
-   ![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211117212854.png)
+   ![](http://s3k1abi6b.hd-bkt.clouddn.com/20211117212854.png)
 
 3. 变更内嵌服务器思想是去除现有服务器，添加全新的服务器
 
@@ -266,7 +266,7 @@ public class Spring0101QuickStartApplication {
 
    重新启动程序后，发现服务器相关信息以变为jetty
 
-   ![](https://gitee.com/nobody_heard_of_it/pic-md1/raw/master/image/20211117213752.png)
+   ![](http://s3k1abi6b.hd-bkt.clouddn.com/20211117213752.png)
 
 4. 内置服务器
 
